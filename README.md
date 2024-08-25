@@ -28,5 +28,5 @@ This project provides scripts to plot the sigmoid function using Python and R. T
 
 ### R
 
-- `ggplot2` (optional, for advanced plotting)
+- 'plot',`ggplot2` (optional, for advanced plotting)
 - Base R functions for plotting are also used.
